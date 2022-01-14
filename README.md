@@ -1,4 +1,3 @@
-<!--- 
 # 시험
 
 
@@ -25,5 +24,4 @@
 [시험17](https://forms.gle/UHwvES81JmxnxeaQ7)  
 [시험18](https://forms.gle/WQ1cUyX2BKBw9Uxz5)  
 
--->
 
