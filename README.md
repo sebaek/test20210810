@@ -1,5 +1,7 @@
 # 시험
 
+[시험 링크 클릭](https://sebaek.github.io/test20210810/)
+<!--
 
 <div> <input type="checkbox"><a href="https://forms.gle/FAJrASAR93xvbk769">시험01</a> </div>  
 <div> <input type="checkbox"><a href="https://forms.gle/YPW6Stmi8fQeRomW9">시험02</a> </div>  
@@ -25,3 +27,5 @@
 <div> <input type="checkbox"><a href="https://forms.gle/WQ1cUyX2BKBw9Uxz5">시험18</a> </div>  
 
 
+
+ -->
