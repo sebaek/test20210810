@@ -1,8 +1,8 @@
 # 시험
 
 
-[시험01](https://forms.gle/FAJrASAR93xvbk769)  
-[시험02](https://forms.gle/YPW6Stmi8fQeRomW9)  
+- [ ] [시험01](https://forms.gle/FAJrASAR93xvbk769)  
+- [ ] [시험02](https://forms.gle/YPW6Stmi8fQeRomW9)  
 [시험03](https://forms.gle/9FLcAfqexD8vGqRs9)  
 [시험04](https://forms.gle/Yd7ux7a1gYoXxXr1A)  
 
